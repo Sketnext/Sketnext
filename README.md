@@ -1,4 +1,4 @@
-- 👋 Hi there, i'm Dimitry
-- 🤓 Student of Instrumentation and Process Control 
-- 🐘 Backend and radical php programmer
-- 🍞 And I like breads, 🐈 cats and making AI's based on arrays 🧐.
+-  Hi there 👋, i'm Dimitry
+-  Student of Instrumentation and Process Control 🤓
+-  Backend and "radical" php programmer 🐘
+-  And I like breads 🍞, cats 🐈 and making AI's based on arrays 🧐.
